@@ -38,7 +38,7 @@ namespace YourTable
 
         private void img_gitHub_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/TheDokT0r/YourTable");
+            System.Diagnostics.Process.Start("https://github.com/orkwitzel/YourTable");
         }
     }
 }
